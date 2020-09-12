@@ -37,15 +37,6 @@
             android:id="@+id/app_version"
             android:textSize="@dimen/setup_version_text_size" />
 
-        <ImageView
-            android:layout_width="@dimen/setup_confirm_icon_size"
-            android:layout_height="@dimen/setup_confirm_icon_size"
-            android:src="@drawable/launcher"
-            android:id="@+id/launcher_img"
-            android:layout_marginEnd="20dp"
-            android:layout_marginTop="15dp"
-            />
-
         </LinearLayout>
 
         <LinearLayout
